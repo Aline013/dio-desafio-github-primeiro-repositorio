@@ -1,0 +1,35 @@
+# criar diretório
+mkdir
+________________________________________________________________
+# mover arquivo
+mv nome_arquivo
+________________________________________________________________
+#criar arquivo
+echo
+________________________________________________________________
+#listar configurações
+git config --list
+________________________________________________________________
+#entrar em pasta/diretório
+cd nome_pasta
+________________________________________________________________
+#status do diretório
+git status
+________________________________________________________________
+#clonar repositório do Git Hub para a máquina
+git clone link_repositório
+________________________________________________________________
+#enviar pastas para o controle de versão
+git add .
+
+ou
+
+git add -A
+________________________________________________________________
+#commit 
+git commit -m "anotação sobre o commit"
+________________________________________________________________
+#enviar mudanças para a nuvem
+git push origin main
+
+
